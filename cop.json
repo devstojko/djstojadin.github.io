@@ -1,0 +1,510 @@
+{
+  "project_name": "Coop",
+  "brand_name": "Coop",
+  "headline": "Coop Customer Journey",
+  "sub_headline": "Planner",
+  "needs_label": "Expectations and needs",
+  "presence_label": "Karolines Køkken presence",
+  "main_color": "black",
+  "secondary_color": "#ed1a3b",
+  "brand_logo_url": "",
+  "brand_logo_align": "right",
+  "top_graphic_url": "",
+  "bottom_logo_url":
+    "/uploads/cjm_map/bottom_logo/6/Screen_Shot_2016-11-28_at_17.53.49.png",
+  "bottom_time_str": "Q3 2016",
+  "url": "http://localhost:3000/cjm_maps/6.json",
+  "level1_phases": [
+    {
+      "id": 17,
+      "label": "BEFORE (INSPIRE)",
+      "url": "http://localhost:3000/level1_phases/17.json",
+      "level2_phases": [
+        {
+          "id": 30,
+          "label": "AWARE",
+          "description":
+            "50% of Danes lack inspiration for varied everyday cooking.",
+          "url": "http://localhost:3000/level2_phases/30.json",
+          "touch_points": [
+            {
+              "id": 156,
+              "name": "Facebook",
+              "as_is_coord": 1,
+              "presence_coord": 5,
+              "is_linked": false,
+              "as_is_comment":
+                "<p><strong>Gnidningsfri</strong></p><p>&bull; Kunden forventer et nemt og tilg&aelig;ngeligt overblik over kanaler/pakker og en gnidningsfri proces med at blive kunde og modtage produkt/services<sup>1</sup>.</p><!--[if ppt]--><p><img class=\"fr-dib fr-draggable\" src=\"/uploads/image/asset/10/Screenshot__8_.png\" style=\"width: 655px; height: 259.817px;\" data-status=\"OK\"></p><p><strong>Forventningsafstemning</strong></p><p>&bull; Kunden har ved aftaleindg&aring;else behov for en forventningsafstemning, der sikrer dem det rigtige kanalvalg, antal bokse og valg af services<sup>2</sup>.</p><p>&bull; Kunderne har et behov og &oslash;nske om valgfrihed i forhold til kanaler. De f&oslash;ler, at de betaler for noget, de ikke skal bruge<sup>3</sup>.</p><p>&bull; Kunden har behov for at vide, hvad det kr&aelig;ver af dem for at installere udstyret<sup>3</sup>.</p><!--[if ppt]--><p><strong>Transparent</strong></p><p>&bull; N&aring;r det kommer til prisen, skal det v&aelig;re tydeligt, hvad kunden skal betale.</p><p>&bull; Kunden vil gerne f&oslash;le sig velinformeret om pris, installation, betingelser og kanaler<sup>3</sup>.</p><!--[if ppt]--><p><strong>Uden nogle overraskelser</strong></p><p>&bull; Der skal helst ikke v&aelig;re nogle overraskelser i forhold til pris og installation.</p><p>Kilde 1: Situationsanalyse</p><p>Kilde 2: Telefoninterviews</p><p>Kilde 3: Velkomstsurvey</p>",
+              "brand_presence": "",
+              "recommendation": "",
+              "quote":
+                "quote_map_to: \"presence\"\r\nquote_bubble_pos: \"topRight\"",
+              "quote_map_to": "presence",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/156.json"
+            },
+            {
+              "id": 157,
+              "name": "Facebook",
+              "as_is_coord": 5,
+              "presence_coord": 5,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/157.json"
+            },
+            {
+              "id": 158,
+              "name": "Instagram",
+              "as_is_coord": 5,
+              "presence_coord": 2,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/158.json"
+            },
+            {
+              "id": 159,
+              "name": "YouTube",
+              "as_is_coord": 5,
+              "presence_coord": 1,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/159.json"
+            },
+            {
+              "id": 160,
+              "name": "App",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/160.json"
+            },
+            {
+              "id": 161,
+              "name": "Website",
+              "as_is_coord": 5,
+              "presence_coord": 4,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/161.json"
+            },
+            {
+              "id": 162,
+              "name": "Meal Club",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": true,
+              "as_is_comment":
+                "<p>Meal as is</p><p><img class=\"fr-dib fr-draggable fr-fil\" src=\"/uploads/image/asset/8/Screen_Shot_2016-11-23_at_14.05.20.png\" style=\"width: 189px; height: 216.72px;\" data-status=\"OK\"></p><p>That was an image</p><p>More images here:&nbsp;<img class=\"fr-dib fr-draggable\" src=\"/uploads/image/asset/9/Screen_Shot_2016-11-23_at_14.05.20.png\" style=\"width: 300px;\" data-status=\"OK\"></p><p>And that is it!</p>",
+              "brand_presence": "<p>Brand presence</p>",
+              "recommendation": "<p>Recommendation</p>",
+              "quote": "My quote",
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/162.json"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "label": "RESEARCH",
+          "description":
+            "The Internet is the favourite media for the Danes when it comes to seeking inspiration for cooking.<br>Among 85% of the users visiting recipes on kk.dk comes from Google.",
+          "url": "http://localhost:3000/level2_phases/31.json",
+          "touch_points": [
+            {
+              "id": 163,
+              "name": "Email (retainer)",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/163.json"
+            },
+            {
+              "id": 164,
+              "name": "Google recipes",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/164.json"
+            },
+            {
+              "id": 165,
+              "name": "Visiting KK.dk",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": true,
+              "as_is_comment":
+                "I often find that the website is working slowly",
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/165.json"
+            },
+            {
+              "id": 166,
+              "name": "Choosing recipes",
+              "as_is_coord": 5,
+              "presence_coord": 5,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/166.json"
+            },
+            {
+              "id": 167,
+              "name": "Saving/printing",
+              "as_is_coord": 3,
+              "presence_coord": 3,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/167.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "label": "DURING (ENLIGHT)",
+      "url": "http://localhost:3000/level1_phases/18.json",
+      "level2_phases": [
+        {
+          "id": 32,
+          "label": "DECIDE AND PURCHASE",
+          "description":
+            "Price sensitivity is high for customers when choosing KK products or their competing counterparts – especially for the basic products.",
+          "url": "http://localhost:3000/level2_phases/32.json",
+          "touch_points": [
+            {
+              "id": 168,
+              "name": "Writing grocery list",
+              "as_is_coord": 3,
+              "presence_coord": 2,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/168.json"
+            },
+            {
+              "id": 169,
+              "name": "Find ingredients",
+              "as_is_coord": 5,
+              "presence_coord": 1,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/169.json"
+            },
+            {
+              "id": 170,
+              "name": "Compare products",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/170.json"
+            },
+            {
+              "id": 171,
+              "name": "Choose products",
+              "as_is_coord": 5,
+              "presence_coord": 5,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/171.json"
+            },
+            {
+              "id": 172,
+              "name": "Taste products",
+              "as_is_coord": 2,
+              "presence_coord": 1,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/172.json"
+            },
+            {
+              "id": 173,
+              "name": "Get/find recipe",
+              "as_is_coord": 4,
+              "presence_coord": 3,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/173.json"
+            },
+            {
+              "id": 174,
+              "name": "Purchase",
+              "as_is_coord": 3,
+              "presence_coord": 5,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/174.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "label": "AFTER (ENCOURAGE)",
+      "url": "http://localhost:3000/level1_phases/19.json",
+      "level2_phases": [
+        {
+          "id": 33,
+          "label": "USE",
+          "description":
+            "The customers want dinners that are tasteful. Fellowship around cooking increase the joy of food and a desire for experimentation.",
+          "url": "http://localhost:3000/level2_phases/33.json",
+          "touch_points": [
+            {
+              "id": 175,
+              "name": "Follow recipe",
+              "as_is_coord": 5,
+              "presence_coord": 5,
+              "is_linked": true,
+              "as_is_comment":
+                "<p>My time is limited&nbsp;<img class=\"fr-dib fr-draggable\" src=\"/uploads/image/asset/1/Screen_Shot_2016-11-18_at_14.43.16.png\" style=\"width: 193px; height: 120.303px;\" data-status=\"OK\"></p>",
+              "brand_presence": "",
+              "recommendation": "",
+              "quote": "",
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/175.json"
+            },
+            {
+              "id": 176,
+              "name": "Evaluate recipe",
+              "as_is_coord": 3,
+              "presence_coord": 1,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/176.json"
+            },
+            {
+              "id": 177,
+              "name": "Write notes / Edit",
+              "as_is_coord": 5,
+              "presence_coord": 1,
+              "is_linked": true,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/177.json"
+            },
+            {
+              "id": 178,
+              "name": "Share",
+              "as_is_coord": 3,
+              "presence_coord": 2,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": "apoijads jiopasiojas oijasjioasoi ijoasojiasdoji",
+              "quote_map_to": "presence",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/178.json"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "label": "RETAIN",
+          "description":
+            "Services must be adapted to customers habits and needs.",
+          "url": "http://localhost:3000/level2_phases/34.json",
+          "touch_points": [
+            {
+              "id": 179,
+              "name": "Facebook",
+              "as_is_coord": 5,
+              "presence_coord": 4,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/179.json"
+            },
+            {
+              "id": 180,
+              "name": "Instagram",
+              "as_is_coord": 5,
+              "presence_coord": 1,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/180.json"
+            },
+            {
+              "id": 181,
+              "name": "Youtube",
+              "as_is_coord": 5,
+              "presence_coord": 1,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/181.json"
+            },
+            {
+              "id": 182,
+              "name": "App",
+              "as_is_coord": 5,
+              "presence_coord": 2,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/182.json"
+            },
+            {
+              "id": 183,
+              "name": "Meal Club",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": "Some bubble pseech comment!",
+              "quote_map_to": "presence",
+              "quote_bubble_pos": "bottomLeft",
+              "url": "http://localhost:3000/touch_points/183.json"
+            },
+            {
+              "id": 184,
+              "name": "Email (retainer)",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "presence",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/184.json"
+            },
+            {
+              "id": 185,
+              "name": "Email (retainer)",
+              "as_is_coord": 5,
+              "presence_coord": 3,
+              "is_linked": false,
+              "as_is_comment": null,
+              "brand_presence": null,
+              "recommendation": null,
+              "quote": null,
+              "quote_map_to": "as_is",
+              "quote_bubble_pos": "bottomRight",
+              "url": "http://localhost:3000/touch_points/185.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
